@@ -38,6 +38,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/chenkai-ma-17955a352", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0001-5238-083X", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
