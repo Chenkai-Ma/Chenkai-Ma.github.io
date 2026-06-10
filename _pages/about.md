@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-cv_pdf: cv_chenkai_ma_oct_2025.pdf
+cv_pdf: cv_chenkai_ma_jun_2026.pdf
 ---
 
 Hi, I am Chenkai Ma, a second year PhD student in the [School of Computing](https://www.comp.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/), advised by [Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/). My current research interests include multi-armed bandit and online learning, while previously I was interested in large language models. Before joining NUS, I earned both my Bachelor's degree in software engineering and Master's degree in computer science and technology from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC).
